@@ -1,6 +1,18 @@
-# Discord-Js-Handler-Template
+# Better Memes Bot
 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+
+## [**USING Memer-Api**](https//memer-api.js.org)
+
+## Installation
+
+1. Download the repository
+
+2. install the packages with: `npm install`
+
+3. fill in the botconfig in ./botconfig/config.json
+
+4. Start the bot with: `node index.js`
 
 # SUPPORT ME AND MILRATO DEVELOPMENT
 
