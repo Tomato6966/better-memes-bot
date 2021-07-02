@@ -1,18 +1,18 @@
 {
-  "name": "discord-js-handler-template",
-  "version": "1.0.0",
-  "description": "Discord.js Command and Event Handler Template with example Command usages! For Questions: https://discord.gg/fS6qBSm",
+  "name": "memer_api_bot",
+  "version": "2.0.0",
+  "description": "Memer api Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Tomato#6966",
+  "author": "Yash & Aniket",
   "license": "ISC",
   "dependencies": {
     "ascii-table": "0.0.9",
     "discord.js": "^12.5.1",
-    "memer-api": "^3.0.0-beta.0"
+    "memer-api": "^3.0.2"
   },
   "devDependencies": {
     "ascii-table": "0.0.9",

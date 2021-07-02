@@ -2,11 +2,11 @@ const { MessageEmbed, MessageAttachment } = require("discord.js");
 const { blue } = require("../../botconfig/embed.json");
 
 module.exports = {
-  name: "emergencymeeting",
+  name: "pepesign",
   aliases: [],
   category: "Memer",
   description: "IMAGE CMD",
-  usage: "emergencymeeting [ Text ]",
+  usage: "pepesign [ Text ]",
 
   run: async (client, message, args) => {
     
@@ -17,15 +17,15 @@ module.exports = {
 
     var text = args.join(" ")
 
-    client.memer.emergencymeeting(text).then(image => {
+    client.memer.pepesign(text).then(image => {
 
-      var attachment = new MessageAttachment(image, "emergencymeeting.png");
+      var attachment = new MessageAttachment(image, "pepesign.png");
 
       tempmsg.delete()
       
       const embed = new MessageEmbed()
       .setColor(blue)
-      .setImage("attachment://emergencymeeting.png")
+      .setImage("attachment://pepesign.png")
       .attachFiles(attachment)
       .setFooter(message.author.tag, message.author.displayAvatarURL({ dynamic: true }))
       

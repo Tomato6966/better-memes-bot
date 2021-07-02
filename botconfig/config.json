@@ -1,5 +1,5 @@
 {
-  "token": "DISCORD BOT TOKEN",
-  "prefix": "!",
-  "apitoken": "GET IT HERE: https://discord.gg/Mc2FudJkgP"
+  "token": "token",
+  "api_token": "memer api token",
+  "prefix": "m!"
 }
