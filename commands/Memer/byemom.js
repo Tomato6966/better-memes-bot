@@ -5,8 +5,6 @@ const {
 const config = require("../../botconfig/config.json");
 const ee = require("../../botconfig/embed.json");
 
-const Meme = require("memer-api");
-const memer = new Meme();
 
 module.exports = {
   name: "byemom",
@@ -34,7 +32,7 @@ module.exports = {
       ).catch(e => console.log("Couldn't delete msg, this is for preventing a bug".gray))
 
       //get the memer image
-      memer.byemom(avatar, user.username, text).then(image => {
+      client.memer.byemom(avatar, user.username, text).then(image => {
         //make an attachment
         var attachment = new MessageAttachment(image, "byemom.png");
         //delete old message

@@ -1,22 +1,33 @@
-# Better Memes Bot
+# THIS BOT REQUIRES A TOKEN FROM MEMER API! YOU CAN GET YOURS AT [MEMER API](https://discord.com/invite/emD44ZJaSA)
+ - [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.npmjs.com/package/memer-api)
+ - [**MEMER API DOCUMENTATION**](https://memer-api.js.org/)
+ - [**MEMER API GITHUB REPO**](https://github.com/shinchanOP/memer-api)
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
 
-## [**USING Memer-Api**](https//memer-api.js.org)
+### 📫 **Join our [Discord Server](https://discord.gg/FQGXbypRf8) for Support**
 
-## Installation
 
-1. Download the repository
+## Installation | How to use the Bot
 
-2. install the packages with: `npm install`
+**0** Get a Memer-Api Token in here: https://discord.gg/Mc2FudJkgP by typing **`meme gentoken`**!
 
-3. fill in the botconfig in ./botconfig/config.json
+**1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
 
-4. Start the bot with: `node index.js`
+**2.** Download this repo and unzip it | or `git clone https://github.com/Tomato6966/better-memes-bot`
 
-# SUPPORT ME AND MILRATO DEVELOPMENT
+**3.** Install all of the packages with **`npm install`** | the important packages are **`npm install discord.js memer-api ascii-table`**
 
-You can always Support me by inviting one of my **own Discord Bots**
+**4.** Add Bot Token & Memer Api Token In The **`./botconfig/config.json`** File.
+
+**5.** start the bot with **`node index.js`** | For 24/7 Host: **`npm install pm2 -g` -> `pm2 start index.js`**
+
+
+[**MEMER API**](https://www.npmjs.com/package/memer-api)
+
+
+# Support me and milrato development
+
+You can always Support me by inviting one of my **own discord bots** |
 
 [![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
 [![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
@@ -45,6 +56,8 @@ Bittmax is our first and probably most important sponsor!
 GET **5%** OFF EVERYTHING FOR EVER!
 Code: **`x10`**
 
+--- 
+
 ### MC-Host24.de
 MC-Host24.de is selling the Best Digital Hosting Services ever!
 Like For games..
@@ -62,3 +75,5 @@ Like For games..
 
 **Website:**
 [mc-host24.de](https://mc-host24.de/user/affiliate/3121])
+
+---

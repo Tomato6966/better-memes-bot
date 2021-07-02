@@ -5,8 +5,6 @@ const {
 const config = require("../../botconfig/config.json");
 const ee = require("../../botconfig/embed.json");
 
-const Meme = require("memer-api");
-const memer = new Meme();
 
 module.exports = {
   name: "roblox",
@@ -25,7 +23,7 @@ module.exports = {
       //get avatar of the user
       var avatar = user.displayAvatarURL({ format: "png" });
       //get the memer image
-      memer.roblox(avatar).then(image => {
+      client.memer.roblox(avatar).then(image => {
         //make an attachment
         var attachment = new MessageAttachment(image, "roblox.png");
         //delete old message

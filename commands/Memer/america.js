@@ -5,8 +5,6 @@ const {
 const config = require("../../botconfig/config.json");
 const ee = require("../../botconfig/embed.json");
 
-const Meme = require("memer-api");
-const memer = new Meme();
 
 module.exports = {
   name: "america",
@@ -25,7 +23,7 @@ module.exports = {
       //get avatar of the user
       var avatar = user.displayAvatarURL({ format: "png" });
       //get the memer image
-      memer.america(avatar).then(image => {
+      client.memer.america(avatar).then(image => {
         //make an attachment
         var attachment = new MessageAttachment(image, "america.png");
         //delete old message

@@ -36,8 +36,8 @@ module.exports = {
               .setColor(ee.color)
               .setThumbnail(client.user.displayAvatarURL())
               .setTitle("HELP MENU 🔰 Commands")
-              .addField("• Developer", `\`\`\`yml\nName: Tomato#6966 [442355791412854784]\nName:ATX Ξ ShinchanOP#0001 [488225580156715008]\`\`\``)
-              .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/pe3V7uT)\`|\`[Website](https://milrato.eu)\`|\`[Api Documentation](https://memer.js.org)**`)
+              .addField("• Developer", `\`\`\`yml\nName: Tomato#6966 [442355791412854784]\nName: ATX Ξ ShinchanOP#0001 [488225580156715008]\`\`\``)
+              .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/pe3V7uT)\`|\`[Website](https://milrato.eu)\`|\`[Api Documentation](https://memer-api.js.org)**`)
               .setFooter(`To see command descriptions and inforamtion, type: ${config.prefix}help [CMD NAME]`, client.user.displayAvatarURL());
           const commands = (category) => {
               return client.commands.filter((cmd) => cmd.category === category).map((cmd) => `\`${cmd.name}\``);
