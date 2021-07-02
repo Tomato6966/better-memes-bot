@@ -3,9 +3,19 @@
  - [**MEMER API DOCUMENTATION**](https://memer-api.js.org/)
  - [**MEMER API GITHUB REPO**](https://github.com/shinchanOP/memer-api)
 
+<br/>
+
+***
+
+<br/>
 
 ### 📫 **Join our [Discord Server](https://discord.gg/FQGXbypRf8) for Support**
 
+<br/>
+
+***
+
+<br/>
 
 ## Installation | How to use the Bot
 
@@ -22,8 +32,13 @@
 **5.** start the bot with **`node index.js`** | For 24/7 Host: **`npm install pm2 -g` -> `pm2 start index.js`**
 
 
-[**MEMER API**](https://www.npmjs.com/package/memer-api)
+> [**MEMER API**](https://www.npmjs.com/package/memer-api)
 
+<br/>
+
+***
+
+<br/>
 
 # Support me and milrato development
 
@@ -32,6 +47,8 @@ You can always Support me by inviting one of my **own discord bots** |
 [![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
 [![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
 [![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
+
+***
 
 ## Sponsors
 
@@ -56,7 +73,7 @@ Bittmax is our first and probably most important sponsor!
 GET **5%** OFF EVERYTHING FOR EVER!
 Code: **`x10`**
 
---- 
+***
 
 ### MC-Host24.de
 MC-Host24.de is selling the Best Digital Hosting Services ever!
@@ -75,5 +92,3 @@ Like For games..
 
 **Website:**
 [mc-host24.de](https://mc-host24.de/user/affiliate/3121])
-
----
