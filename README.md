@@ -18,18 +18,18 @@
 <br/>
 
 ## Installation | How to use the Bot
-
-**0** Get a Memer-Api Token in here: https://discord.gg/Mc2FudJkgP by typing **`meme gentoken`**!
-
-**1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
-
-**2.** Download this repo and unzip it | or `git clone https://github.com/Tomato6966/better-memes-bot`
-
-**3.** Install all of the packages with **`npm install`** | the important packages are **`npm install discord.js memer-api ascii-table`**
-
-**4.** Add Bot Token & Memer Api Token In The **`./botconfig/config.json`** File.
-
-**5.** start the bot with **`node index.js`** | For 24/7 Host: **`npm install pm2 -g` -> `pm2 start index.js`**
+> 
+> **0** Get a Memer-Api Token in here: https://discord.gg/Mc2FudJkgP by typing **`meme gentoken`**!
+> 
+> **1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
+> 
+> **2.** Download this repo and unzip it | or `git clone https://github.com/Tomato6966/better-memes-bot`
+> 
+> **3.** Install all of the packages with **`npm install`** | the important packages are **`npm install discord.js memer-api ascii-table`**
+> 
+> **4.** Add Bot Token & Memer Api Token In The **`./botconfig/config.json`** File.
+> 
+> **5.** start the bot with **`node index.js`** | For 24/7 Host: **`npm install pm2 -g` -> `pm2 start index.js`**
 
 
 > [**MEMER API**](https://www.npmjs.com/package/memer-api)
