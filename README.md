@@ -30,8 +30,7 @@
 > **4.** Add Bot Token & Memer Api Token In The **`./botconfig/config.json`** File.
 > 
 > **5.** start the bot with **`node index.js`** | For 24/7 Host: **`npm install pm2 -g` -> `pm2 start index.js`**
-
-
+> 
 > [**MEMER API**](https://www.npmjs.com/package/memer-api)
 
 <br/>
