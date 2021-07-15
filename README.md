@@ -16,6 +16,7 @@
 
 🌸 Discord: [Server](https://discord.gg/Mc2FudJkgP)
 
+Contributer: [@Aniket091](https://github.com/aniket091/Meme-Bot) for keeping this Bot-Repository up to date
 
 
 ## Installation | How to use the Bot
